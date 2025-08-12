@@ -1,4 +1,4 @@
-## Hey, this is KubeParter community 👋
+## Hey, this is KubePartner community 👋
 
 <!--
 
